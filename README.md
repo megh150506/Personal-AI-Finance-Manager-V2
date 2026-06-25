@@ -1,4 +1,4 @@
-# 💰 Personal AI Finance Manager
+ Personal AI Finance Manager(Redesigned)
 
 A modern web-based finance management application that helps users track income, expenses, budgets, and savings in one place.
 
