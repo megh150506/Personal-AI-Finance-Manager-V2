@@ -36,3 +36,6 @@ https://megh150506.github.io/Personal-AI-Finance-Manager-/
 ## Author
 
 Meghna Ayach
+<img width="1860" height="797" alt="image" src="https://github.com/user-attachments/assets/d9a24ff7-acfa-4975-9665-703b138fb03e" />
+
+
